@@ -1,0 +1,18 @@
+.wow {
+  width: 100px;
+}
+.box{
+margin: 20px;
+border: 5px solid black;
+padding: 5px;
+}
+
+div img{
+  width: 15%;
+  margin: 15px;
+  padding: 15px;
+}
+
+img:hover{
+  transform: scale(1.20);
+}
